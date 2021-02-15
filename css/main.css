@@ -12,8 +12,8 @@ p, .lead {
 }
 
 h1 {
-  font-size: 80px;
-  line-height: 40px;
+  font-size: 70px;
+  line-height: 30px;
   letter-spacing: 5px;
   color: #ffffff;
   text-shadow: 2px 2px 5px red;
@@ -37,7 +37,7 @@ h3 {
 }
 
 .lead {
-  font-size: 30px;
+  font-size: 15px;
   line-height: 50px;
   text-shadow: 3px 3px 5px white;
   color: #000000;
@@ -290,7 +290,7 @@ header {
 .header-info {
   position: absolute;
   bottom: 0;
-  width: 80%;
+  width: 50%;
   left: 0;
   right: 0;
   margin-left: 0px;
